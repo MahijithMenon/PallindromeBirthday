@@ -1,0 +1,11 @@
+.page {
+        border: 2px solid black;
+        background-color: cadetblue;
+        color: white;
+        width: 42%;
+        height: 84%;
+        margin: 13% auto;
+}
+body{
+    background-color: #f87171;
+}

@@ -20,10 +20,10 @@ temp= Math.floor(temp/10);
 }
 console.log( temp+" " + dob+" "+sum)
 if(dob===sum){
-    output.innerText="Your BirthDate is Pallindrome";
+    output.innerText="Your BirthDay is Pallindrome";
 }
 else{
-    output.innerText="Your BirthDate is Not Pallindrome";
+    output.innerText="Your BirthDay is Not Pallindrome";
 
 }
 }
